@@ -1,1 +1,1 @@
-This github organization contains software related to the goals of ICAMS.
+This is a special repo for controlling content on the github.com/ICAMS-US page.
